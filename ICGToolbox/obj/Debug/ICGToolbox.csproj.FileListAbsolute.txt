@@ -1,0 +1,5 @@
+E:\HTML5Pracs\ICGToolbox\ICGToolbox\bin\ICGToolbox.dll
+E:\HTML5Pracs\ICGToolbox\ICGToolbox\bin\ICGToolbox.pdb
+E:\HTML5Pracs\ICGToolbox\ICGToolbox\obj\Debug\ICGToolbox.csprojResolveAssemblyReference.cache
+E:\HTML5Pracs\ICGToolbox\ICGToolbox\obj\Debug\ICGToolbox.dll
+E:\HTML5Pracs\ICGToolbox\ICGToolbox\obj\Debug\ICGToolbox.pdb
